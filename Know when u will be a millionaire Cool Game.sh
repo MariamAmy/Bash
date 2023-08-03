@@ -14,7 +14,7 @@ read name
 echo "What is your age ?"
 read age
 
-echo "Welcome $namne, you are $age years old"
+echo "Welcome $name, you are $age years old"
 
 echo  "Calculating when you will be a millionaire..."
 
