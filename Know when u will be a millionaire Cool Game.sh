@@ -16,7 +16,7 @@ read age
 
 echo "Welcome $name, you are $age years old"
 
-echo  "Calculating when you will be a millionaire..."
+echo  "Calculating when you will be a millionaire....."
 
 sleep 2
 
