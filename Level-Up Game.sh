@@ -3,8 +3,8 @@
 echo "Welcome to Level-Up Game!"
 echo "Level 1"
 
-echo "Guess a number from 0-10, if it is right, you go to the next level!"
-echo "Or simply order coffee!!"
+echo "Guess a number from 0-10, if it is right, you go to the next level !"
+echo "Or simply order coffee !!"
 
 read answer
 
